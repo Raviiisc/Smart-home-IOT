@@ -1,0 +1,2 @@
+1.The main_code.py contains the entire code and load shedding part is present in the separate folder.
+2.To execute project first run main_code.py and then follow readme.txt in load_shedding_code folder.
